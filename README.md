@@ -8,12 +8,17 @@ Agilidade em criar sistemas com componentes já prontos
 - Botões
 - Navbar
 
+Aprendo o uso de bootstrap: [fake wikipedia do bootstrap](grid.html)
+
 # Bootstrap na Prática 
 ## Criar uma página:
 - Header
 - Lista de dados
 - Formulário
 - Tudo responsivo
+
+Site que usa uma API pública: [API + Bootstrap](index.html)
+- API: https://jsonplaceholder.typicode.com/users
 
 ### Documentação: 
 - https://getbootstrap.com/
